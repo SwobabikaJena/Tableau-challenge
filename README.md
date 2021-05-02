@@ -11,6 +11,9 @@ The questions that we have chosen to answer are:
 
 2.	Which are the top 10 frequently used bike stations for starting a journey and ending a journey?
 
+# Link to visualization: 
+https://public.tableau.com/profile/swobabika.jena#!/vizhome/CityBikeDataTrends/UsersbyGender?publish=yes 
+
 # Analysis Result:
 The main observations from the analysis are as follows:
 ##	Who are the most frequent users of city bikes in 2021?                                                        (Know the users Dashboard explained)

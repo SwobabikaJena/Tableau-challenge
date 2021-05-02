@@ -13,7 +13,7 @@ The questions that we have chosen to answer are:
 
 # Analysis Result:
 The main observations from the analysis are as follows:
-	Who are the most frequent users of city bikes in 2021?                                                        (Know the users Dashboard explained)
+##	Who are the most frequent users of city bikes in 2021?                                                        (Know the users Dashboard explained)
 
 •	Male riders appear to be the most frequent riders contributing to 66.4% trips in 2021. 
 
@@ -23,7 +23,7 @@ The main observations from the analysis are as follows:
 
 •	When we consider the average trip durations (in minutes), women in their 20s seem to be riding for the longest durations (approximately 20 minutes) which is quite high when we compare with any other age group of any gender.
  
-	Which are the top 10 frequently used bike stations for starting a journey and ending a journey in 2021? (Most Visited Stops dashboard explained)
+##	Which are the top 10 frequently used bike stations for starting a journey and ending a journey in 2021? (Most Visited Stops dashboard explained)
 
 •	When we consider the number of trips from and to any bike station in this time duration, the top 10 bike stations are almost identical for both starting and ending a trip. This could possibly mean that these stops are close to city center. This can be verified by looking at the “City Official Map” in the analysis section.
 
